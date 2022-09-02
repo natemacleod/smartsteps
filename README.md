@@ -4,4 +4,4 @@ Each day, it creates a new step goal based on the user's recent movement habits.
 
 It uses Android Wear Compose for UI and Room for data storage.
 
-This project was created in 2021. A small update has been made in 2022 to clean up the code.
+This project was created in 2021 but was not uploaded to my GitHub then. A small update has been made in 2022 to clean up the code.
